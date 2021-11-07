@@ -17,5 +17,9 @@ public class Main {
         mikesun.radius="9000000km";
         mikesun.maritalStatus="in love with asghar";
 
+        Planet1 astranout = new Planet1();
+        astranout.color = "grey";
+        astranout.relationshipStatus = "single";
+        astranout.size = "949475743km";
     }
 }
